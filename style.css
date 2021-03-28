@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+
+}
+.content_header{
+    border-radius: 10px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 5px;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+.content_master{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.heading_name{
+    font-family: 'Cormorant Garamond', serif;
+}
+.text_master{
+    font-family: 'Cormorant Garamond', serif;
+}
+h1{
+    font-family: 'Cormorant Garamond', serif; 
+}
+p{
+    font-family: 'Cormorant Garamond', serif;
+}
+.foto_Zita{
+    width: 550px;
+    height: 350px;
+}
+.foto{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+.text{
+    padding-top: 100px;
+    padding-right: 5px;
+    padding-left: 40px;
+}
+.zagalovok_1{
+    font-family: 'Cormorant Garamond', serif;
+}
+.logo{
+    font-family: 'Bangers', cursive;
+    font-size: 40px;
+    padding-left: 5px;
+}
+.menu{
+    padding-right: 5px;
+    display: flex;
+    align-items: flex-end;
+    font-family: 'Amatic SC', cursive;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    font-size: 30px;
+}
+a:hover{
+    border-bottom: 3px solid orange;
+}
+.tato1{
+    size: 100px;
+}
+.signUpForASession{
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.nameSession > h1{
+    text-align: center;
+}
+.borderSessio{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 370px;
+    margin-right: 370px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.contentSession{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.calenar{
+    padding-right: 185px;
+}
+.contactInfo{
+    margin: 10px auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px 10px;
+    text-align: center;
+}
+.contactInfoContent{
+    display: flex;
+    flex-direction: column;
+    padding: 10px 10px;
+}
